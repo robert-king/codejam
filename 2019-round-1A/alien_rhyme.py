@@ -6,6 +6,7 @@ def monkey():
 	input = lambda : next(it)
 
 monkey()
+
 for caseNum in range(1, int(input()) + 1):
 	N = int(input())
 	words = sorted(input().strip()[::-1] for _ in range(N))

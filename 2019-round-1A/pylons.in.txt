@@ -1,0 +1,28 @@
+5
+2 2
+2 5
+2 2
+3 3
+4 5
+
+R C
+
+x x x x
+x x x x
+x x x x
+. . . .
+
+not possible
+2 2
+2 3
+2 4
+
+3 3
+
+4 4 ? think so
+4 5 ? think so
+
+5 5 ? think so
+5 6 ?
+
+6 6 ?
